@@ -1,0 +1,9 @@
+:root {
+  --Primary-Normal: #FD853A !important; /* Your custom orange color */
+}
+
+
+body {
+  margin: 0;
+  font-family: "Urbanist", sans-serif;
+}
